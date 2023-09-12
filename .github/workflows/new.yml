@@ -1,4 +1,5 @@
 name: new
+run-name: hehe
 on: push
 jobs:
   my-job:
